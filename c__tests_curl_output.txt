@@ -1,0 +1,1 @@
+<?xml version="1.0" ?><S:Envelope xmlns:S="http://schemas.xmlsoap.org/soap/envelope/"><S:Body><ns2:getFuelLevelResponse xmlns:ns2="http://example.se.java.main.src.product/"><return>15</return></ns2:getFuelLevelResponse></S:Body></S:Envelope>
